@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "job_fullstack_201",
+    "recruiterId": "recruiter_demo_1",
+    "title": "Senior Full Stack Engineer (React + Node.js)",
+    "description": "We are seeking a high-performing Senior Full Stack Developer to build scalable cloud-native web applications. The candidate will design REST APIs, build modern React user interfaces, integrate MongoDB databases, and implement CI/CD deployment pipelines.",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "REST API",
+      "Git"
+    ],
+    "preferredSkills": [
+      "Docker",
+      "AWS",
+      "GraphQL",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "experienceRequirement": 3,
+    "educationRequirement": "Bachelor's Degree in Computer Science or Software Engineering",
+    "competencyWeights": {
+      "technicalSkills": 40,
+      "relevantExperience": 25,
+      "projects": 15,
+      "education": 10,
+      "certifications": 10
+    },
+    "createdAt": "2026-08-28T04:23:45.690Z"
+  },
+  {
+    "_id": "job_ml_202",
+    "recruiterId": "recruiter_demo_1",
+    "title": "Lead Machine Learning & AI Architect",
+    "description": "Looking for a Lead ML Engineer to design predictive NLP models, computer vision pipelines, and deep learning architectures. Candidates should possess strong expertise in Python, PyTorch/TensorFlow, SQL, feature engineering, and model deployment.",
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "Data Science"
+    ],
+    "preferredSkills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Natural Language Processing",
+      "MLOps"
+    ],
+    "experienceRequirement": 4,
+    "educationRequirement": "Master's or Bachelor's Degree in Computer Science / AI / Data Science",
+    "competencyWeights": {
+      "technicalSkills": 45,
+      "relevantExperience": 25,
+      "projects": 15,
+      "education": 10,
+      "certifications": 5
+    },
+    "createdAt": "2026-08-28T04:23:45.695Z"
+  }
+]

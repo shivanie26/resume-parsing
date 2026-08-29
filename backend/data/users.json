@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "recruiter_demo_1",
+    "name": "Sarah Jenkins",
+    "email": "recruiter@platform.com",
+    "passwordHash": "$2a$10$Gy9TJVDpW5jmg4OVR3F9f.fwXpVrHfLOdxo0zGlQw4.lfarqY5yp.",
+    "role": "recruiter",
+    "createdAt": "2026-08-28T04:23:45.470Z"
+  },
+  {
+    "_id": "cand_alex_101",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@email.com",
+    "passwordHash": "$2a$10$heiU42/PhMi/ScpMOIsr.uUQXZlT68wmaci/s61pZ78EZ9RRNaVpW",
+    "role": "candidate",
+    "createdAt": "2026-08-28T04:23:45.674Z"
+  },
+  {
+    "_id": "cand_priya_102",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "passwordHash": "$2a$10$heiU42/PhMi/ScpMOIsr.uUQXZlT68wmaci/s61pZ78EZ9RRNaVpW",
+    "role": "candidate",
+    "createdAt": "2026-08-28T04:23:45.679Z"
+  },
+  {
+    "_id": "cand_marcus_103",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@email.com",
+    "passwordHash": "$2a$10$heiU42/PhMi/ScpMOIsr.uUQXZlT68wmaci/s61pZ78EZ9RRNaVpW",
+    "role": "candidate",
+    "createdAt": "2026-08-28T04:23:45.684Z"
+  },
+  {
+    "_id": "cand_elena_104",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@email.com",
+    "passwordHash": "$2a$10$heiU42/PhMi/ScpMOIsr.uUQXZlT68wmaci/s61pZ78EZ9RRNaVpW",
+    "role": "candidate",
+    "createdAt": "2026-08-28T04:23:45.689Z"
+  },
+  {
+    "_id": "mtch0gbalvhzu",
+    "name": "SHIVANI E",
+    "email": "shiva@gmail.com",
+    "passwordHash": "$2a$10$JShxJB5u1.TKREebalSj0OAp6mxeNsFIGK9gyiklrZKZEV3q5nt2u",
+    "role": "recruiter",
+    "createdAt": "2026-08-28T04:47:46.582Z"
+  },
+  {
+    "_id": "mtch1calf0j9f",
+    "name": "hema",
+    "email": "hema@gmail.com",
+    "passwordHash": "$2a$10$Q1JG/Q5WZvXH8ZYXiH5gsegqR2MbAH8uH6L00GeWHu6VKCarVSqmO",
+    "role": "recruiter",
+    "createdAt": "2026-08-28T04:48:28.029Z"
+  },
+  {
+    "_id": "cand_1787892618923_42fe",
+    "name": "SHIVANI E",
+    "email": "eshivani26@gmail.com",
+    "passwordHash": "seeded_candidate",
+    "role": "candidate",
+    "createdAt": "2026-08-28T04:50:19.019Z"
+  },
+  {
+    "_id": "mtch9mthp0g2d",
+    "name": "SHIVAN E",
+    "email": "shivan@gmail.com",
+    "passwordHash": "$2a$10$vGQIhJ1zB5oH.6U4bNzOJOYdHJFkRNiNMidmP9r468WD8XYL7Ng8q",
+    "role": "recruiter",
+    "createdAt": "2026-08-28T04:54:54.917Z"
+  },
+  {
+    "_id": "mtchsov22fars",
+    "name": "shri",
+    "email": "shri@gmail.com",
+    "passwordHash": "$2a$10$UFQBFmVn.mTOjG3Kx9UF2O1BPktVlImgb9VSzStOxEQ49nxPLpW42",
+    "role": "recruiter",
+    "createdAt": "2026-08-28T05:09:44.030Z"
+  },
+  {
+    "_id": "cand_1787893821938_o4jy",
+    "name": "SHIVANI E",
+    "email": "eshivani26@gmail.com",
+    "passwordHash": "seeded_candidate",
+    "role": "candidate",
+    "createdAt": "2026-08-28T05:10:21.976Z"
+  },
+  {
+    "_id": "mtdvdo0q00wk2",
+    "name": "SHIVANII E",
+    "email": "shivanii@gmail.com",
+    "passwordHash": "$2a$10$D8zhTPLhsL7hszU6dWiuX.5PRjwMaFCSSS88O8H0lphmk1juihAeq",
+    "role": "recruiter",
+    "createdAt": "2026-08-29T04:17:43.898Z"
+  }
+]

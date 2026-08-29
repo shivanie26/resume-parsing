@@ -1,0 +1,608 @@
+[
+  {
+    "_id": "mtcg5ockstuoc",
+    "candidateId": "cand_priya_102",
+    "jobId": "job_ml_202",
+    "candidateName": "Priya Sharma",
+    "candidateEmail": "priya.sharma@email.com",
+    "skillScore": 100,
+    "experienceScore": 90,
+    "educationScore": 95,
+    "projectScore": 95,
+    "certificationScore": 100,
+    "overallScore": 96,
+    "matchedSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "Data Science",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Natural Language Processing",
+      "MLOps"
+    ],
+    "missingSkills": [],
+    "evidence": [
+      {
+        "skill": "Python",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: Python)."
+      },
+      {
+        "skill": "Machine Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Machine Learning (matches required skill: Machine Learning)."
+      },
+      {
+        "skill": "Deep Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Deep Learning (matches required skill: Deep Learning)."
+      },
+      {
+        "skill": "PyTorch",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: PyTorch)."
+      },
+      {
+        "skill": "TensorFlow",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Deep Learning (matches required skill: TensorFlow)."
+      },
+      {
+        "skill": "SQL",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in SQL (matches required skill: SQL)."
+      },
+      {
+        "skill": "Data Science",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Data Science (matches required skill: Data Science)."
+      },
+      {
+        "skill": "AWS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: AWS."
+      },
+      {
+        "skill": "Docker",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Docker."
+      },
+      {
+        "skill": "Kubernetes",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Kubernetes."
+      },
+      {
+        "skill": "Natural Language Processing",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Natural Language Processing."
+      },
+      {
+        "skill": "MLOps",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Machine Learning."
+      },
+      {
+        "skill": "Experience Duration",
+        "source": "Work History",
+        "text": "Candidate has 5 years total relevant experience (Required: 4 years). Role: Staff AI Specialist"
+      },
+      {
+        "skill": "Transformer NLP Document Intelligence",
+        "source": "Projects",
+        "text": "Relevant project detected: \"Transformer NLP Document Intelligence\" - Built state-of-the-art NLP entity extractor in PyTorch."
+      },
+      {
+        "skill": "MLOps Automated Pipeline",
+        "source": "Projects",
+        "text": "Relevant project detected: \"MLOps Automated Pipeline\" - Continuous model monitoring framework using Docker and Kubernetes on AWS."
+      },
+      {
+        "skill": "Degree Requirement",
+        "source": "Education",
+        "text": "Satisfies degree requirement: M.S. in Artificial Intelligence & Data Science from Carnegie Mellon University (2019)"
+      },
+      {
+        "skill": "Professional Certification",
+        "source": "Certifications",
+        "text": "Certifications verified: AWS Certified Machine Learning - Specialty, DeepLearning.AI Deep Learning Specialization"
+      }
+    ],
+    "confidence": 0.94,
+    "explanation": "Candidate achieved an overall job competency match score of 96%. Strong technical skill alignment (100%) with 12 matching competencies. Meets experience criteria (5 yrs vs 4 yrs required). ",
+    "biasAudit": {
+      "evaluatedFactors": [
+        "Job-relevant Technical Skills",
+        "Years of Applicable Experience",
+        "Degree & Educational Background",
+        "Demonstrated Project Portfolio",
+        "Verified Professional Certifications"
+      ],
+      "excludedAttributes": [
+        "Photograph & Visual Appearance",
+        "Gender & Gender Identity",
+        "Religion & Faith",
+        "Caste, Race & Ethnicity",
+        "Marital Status & Family Background",
+        "Political Affiliation",
+        "Non-job-relevant Personal Details"
+      ],
+      "piiScrubbed": true,
+      "notice": "AI-assisted assessment — final recruitment decision must be made by a human recruiter."
+    },
+    "createdAt": "2026-08-28T04:23:50.660Z"
+  },
+  {
+    "_id": "mtcg5ocvzwrr9",
+    "candidateId": "cand_elena_104",
+    "jobId": "job_ml_202",
+    "candidateName": "Elena Rostova",
+    "candidateEmail": "elena.rostova@email.com",
+    "skillScore": 82,
+    "experienceScore": 85,
+    "educationScore": 95,
+    "projectScore": 85,
+    "certificationScore": 85,
+    "overallScore": 85,
+    "matchedSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "AWS",
+      "Docker",
+      "MLOps"
+    ],
+    "missingSkills": [
+      "Data Science"
+    ],
+    "evidence": [
+      {
+        "skill": "Python",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: Python)."
+      },
+      {
+        "skill": "Machine Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Machine Learning (matches required skill: Machine Learning)."
+      },
+      {
+        "skill": "Deep Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in TensorFlow (matches required skill: Deep Learning)."
+      },
+      {
+        "skill": "PyTorch",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: PyTorch)."
+      },
+      {
+        "skill": "TensorFlow",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in TensorFlow (matches required skill: TensorFlow)."
+      },
+      {
+        "skill": "SQL",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in SQL (matches required skill: SQL)."
+      },
+      {
+        "skill": "AWS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: AWS."
+      },
+      {
+        "skill": "Docker",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Docker."
+      },
+      {
+        "skill": "MLOps",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Machine Learning."
+      },
+      {
+        "skill": "Experience Duration",
+        "source": "Work History",
+        "text": "Candidate has 4 years total relevant experience (Required: 4 years). Role: Software & AI Engineer"
+      },
+      {
+        "skill": "Intelligent Smart Search Engine",
+        "source": "Projects",
+        "text": "Relevant project detected: \"Intelligent Smart Search Engine\" - Built semantic search tool using Python and React."
+      },
+      {
+        "skill": "Degree Requirement",
+        "source": "Education",
+        "text": "Satisfies degree requirement: B.Tech in Computer Science & Engineering from MIT (2020)"
+      },
+      {
+        "skill": "Professional Certification",
+        "source": "Certifications",
+        "text": "Certifications verified: Certified AWS Developer"
+      }
+    ],
+    "confidence": 0.94,
+    "explanation": "Candidate achieved an overall job competency match score of 85%. Strong technical skill alignment (82%) with 9 matching competencies. Meets experience criteria (4 yrs vs 4 yrs required). ",
+    "biasAudit": {
+      "evaluatedFactors": [
+        "Job-relevant Technical Skills",
+        "Years of Applicable Experience",
+        "Degree & Educational Background",
+        "Demonstrated Project Portfolio",
+        "Verified Professional Certifications"
+      ],
+      "excludedAttributes": [
+        "Photograph & Visual Appearance",
+        "Gender & Gender Identity",
+        "Religion & Faith",
+        "Caste, Race & Ethnicity",
+        "Marital Status & Family Background",
+        "Political Affiliation",
+        "Non-job-relevant Personal Details"
+      ],
+      "piiScrubbed": true,
+      "notice": "AI-assisted assessment — final recruitment decision must be made by a human recruiter."
+    },
+    "createdAt": "2026-08-28T04:23:50.671Z"
+  },
+  {
+    "_id": "mtcg5od5c8d1i",
+    "candidateId": "cand_elena_104",
+    "jobId": "job_ml_202",
+    "candidateName": "Elena Rostova",
+    "candidateEmail": "elena.rostova@email.com",
+    "skillScore": 82,
+    "experienceScore": 85,
+    "educationScore": 95,
+    "projectScore": 85,
+    "certificationScore": 85,
+    "overallScore": 85,
+    "matchedSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "AWS",
+      "Docker",
+      "MLOps"
+    ],
+    "missingSkills": [
+      "Data Science"
+    ],
+    "evidence": [
+      {
+        "skill": "Python",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: Python)."
+      },
+      {
+        "skill": "Machine Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Machine Learning (matches required skill: Machine Learning)."
+      },
+      {
+        "skill": "Deep Learning",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in TensorFlow (matches required skill: Deep Learning)."
+      },
+      {
+        "skill": "PyTorch",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Python (matches required skill: PyTorch)."
+      },
+      {
+        "skill": "TensorFlow",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in TensorFlow (matches required skill: TensorFlow)."
+      },
+      {
+        "skill": "SQL",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in SQL (matches required skill: SQL)."
+      },
+      {
+        "skill": "AWS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: AWS."
+      },
+      {
+        "skill": "Docker",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Docker."
+      },
+      {
+        "skill": "MLOps",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Machine Learning."
+      },
+      {
+        "skill": "Experience Duration",
+        "source": "Work History",
+        "text": "Candidate has 4 years total relevant experience (Required: 4 years). Role: Software & AI Engineer"
+      },
+      {
+        "skill": "Intelligent Smart Search Engine",
+        "source": "Projects",
+        "text": "Relevant project detected: \"Intelligent Smart Search Engine\" - Built semantic search tool using Python and React."
+      },
+      {
+        "skill": "Degree Requirement",
+        "source": "Education",
+        "text": "Satisfies degree requirement: B.Tech in Computer Science & Engineering from MIT (2020)"
+      },
+      {
+        "skill": "Professional Certification",
+        "source": "Certifications",
+        "text": "Certifications verified: Certified AWS Developer"
+      }
+    ],
+    "confidence": 0.94,
+    "explanation": "Candidate achieved an overall job competency match score of 85%. Strong technical skill alignment (82%) with 9 matching competencies. Meets experience criteria (4 yrs vs 4 yrs required). ",
+    "biasAudit": {
+      "evaluatedFactors": [
+        "Job-relevant Technical Skills",
+        "Years of Applicable Experience",
+        "Degree & Educational Background",
+        "Demonstrated Project Portfolio",
+        "Verified Professional Certifications"
+      ],
+      "excludedAttributes": [
+        "Photograph & Visual Appearance",
+        "Gender & Gender Identity",
+        "Religion & Faith",
+        "Caste, Race & Ethnicity",
+        "Marital Status & Family Background",
+        "Political Affiliation",
+        "Non-job-relevant Personal Details"
+      ],
+      "piiScrubbed": true,
+      "notice": "AI-assisted assessment — final recruitment decision must be made by a human recruiter."
+    },
+    "createdAt": "2026-08-28T04:23:50.681Z"
+  },
+  {
+    "_id": "mtcg6atzdkik3",
+    "candidateId": "cand_alex_101",
+    "jobId": "job_fullstack_201",
+    "candidateName": "Alex Rivera",
+    "candidateEmail": "alex.rivera@email.com",
+    "skillScore": 97,
+    "experienceScore": 93,
+    "educationScore": 95,
+    "projectScore": 95,
+    "certificationScore": 100,
+    "overallScore": 96,
+    "matchedSkills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "REST API",
+      "Git",
+      "Docker",
+      "AWS",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "missingSkills": [],
+    "evidence": [
+      {
+        "skill": "React",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in React (matches required skill: React)."
+      },
+      {
+        "skill": "Node.js",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Node.js (matches required skill: Node.js)."
+      },
+      {
+        "skill": "JavaScript",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Node.js (matches required skill: JavaScript)."
+      },
+      {
+        "skill": "TypeScript",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in TypeScript (matches required skill: TypeScript)."
+      },
+      {
+        "skill": "SQL",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in SQL (matches required skill: SQL)."
+      },
+      {
+        "skill": "REST API",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in REST API (matches required skill: REST API)."
+      },
+      {
+        "skill": "Git",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Git (matches required skill: Git)."
+      },
+      {
+        "skill": "Docker",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Docker."
+      },
+      {
+        "skill": "AWS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: AWS."
+      },
+      {
+        "skill": "MongoDB",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: MongoDB."
+      },
+      {
+        "skill": "Tailwind CSS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Tailwind CSS."
+      },
+      {
+        "skill": "Experience Duration",
+        "source": "Work History",
+        "text": "Candidate has 4.5 years total relevant experience (Required: 3 years). Role: Senior Software Engineer"
+      },
+      {
+        "skill": "Microservice E-Commerce Engine",
+        "source": "Projects",
+        "text": "Relevant project detected: \"Microservice E-Commerce Engine\" - Architected Node.js microservices with GraphQL and React frontend."
+      },
+      {
+        "skill": "Real-Time Telemetry Dashboard",
+        "source": "Projects",
+        "text": "Relevant project detected: \"Real-Time Telemetry Dashboard\" - Built React/TypeScript web app with WebSockets and Tailwind CSS."
+      },
+      {
+        "skill": "Degree Requirement",
+        "source": "Education",
+        "text": "Satisfies degree requirement: B.S. in Computer Science from University of California, Berkeley (2020)"
+      },
+      {
+        "skill": "Professional Certification",
+        "source": "Certifications",
+        "text": "Certifications verified: AWS Certified Solutions Architect - Associate, Meta Certified Senior Front-End Developer"
+      }
+    ],
+    "confidence": 0.94,
+    "explanation": "Candidate achieved an overall job competency match score of 96%. Strong technical skill alignment (97%) with 11 matching competencies. Meets experience criteria (4.5 yrs vs 3 yrs required). ",
+    "biasAudit": {
+      "evaluatedFactors": [
+        "Job-relevant Technical Skills",
+        "Years of Applicable Experience",
+        "Degree & Educational Background",
+        "Demonstrated Project Portfolio",
+        "Verified Professional Certifications"
+      ],
+      "excludedAttributes": [
+        "Photograph & Visual Appearance",
+        "Gender & Gender Identity",
+        "Religion & Faith",
+        "Caste, Race & Ethnicity",
+        "Marital Status & Family Background",
+        "Political Affiliation",
+        "Non-job-relevant Personal Details"
+      ],
+      "piiScrubbed": true,
+      "notice": "AI-assisted assessment — final recruitment decision must be made by a human recruiter."
+    },
+    "createdAt": "2026-08-28T04:24:19.797Z"
+  },
+  {
+    "_id": "mtch4gn2c73dw",
+    "candidateId": "cand_1787892618923_42fe",
+    "jobId": "job_fullstack_201",
+    "candidateName": "SHIVANI E",
+    "candidateEmail": "eshivani26@gmail.com",
+    "skillScore": 55,
+    "experienceScore": 57,
+    "educationScore": 95,
+    "projectScore": 85,
+    "certificationScore": 100,
+    "overallScore": 69,
+    "matchedSkills": [
+      "Node.js",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "missingSkills": [
+      "React",
+      "TypeScript",
+      "REST API"
+    ],
+    "evidence": [
+      {
+        "skill": "Node.js",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Javascript (matches required skill: Node.js)."
+      },
+      {
+        "skill": "JavaScript",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Javascript (matches required skill: JavaScript)."
+      },
+      {
+        "skill": "SQL",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Sql (matches required skill: SQL)."
+      },
+      {
+        "skill": "Git",
+        "source": "Skills & Technical Background",
+        "text": "Candidate demonstrates competence in Git (matches required skill: Git)."
+      },
+      {
+        "skill": "MongoDB",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Mongodb."
+      },
+      {
+        "skill": "Tailwind CSS",
+        "source": "Preferred Qualifications",
+        "text": "Candidate possesses preferred skill: Css."
+      },
+      {
+        "skill": "Experience Duration",
+        "source": "Work History",
+        "text": "Candidate has 2 years total relevant experience (Required: 3 years). Role: experience."
+      },
+      {
+        "skill": "AI Resume Parsing System",
+        "source": "Projects",
+        "text": "Relevant project detected: \"AI Resume Parsing System\" - Built NLP service with React frontend"
+      },
+      {
+        "skill": "Degree Requirement",
+        "source": "Education",
+        "text": "Satisfies degree requirement: B.Tech Computer Science from State University (2023)"
+      },
+      {
+        "skill": "Professional Certification",
+        "source": "Certifications",
+        "text": "Certifications verified: AWS Certified Developer, Full Stack Developer Certificate"
+      }
+    ],
+    "confidence": 0.94,
+    "explanation": "Candidate achieved an overall job competency match score of 69%. Moderate technical alignment (55%). Missing key skills: React, TypeScript, REST API. ",
+    "biasAudit": {
+      "evaluatedFactors": [
+        "Job-relevant Technical Skills",
+        "Years of Applicable Experience",
+        "Degree & Educational Background",
+        "Demonstrated Project Portfolio",
+        "Verified Professional Certifications"
+      ],
+      "excludedAttributes": [
+        "Photograph & Visual Appearance",
+        "Gender & Gender Identity",
+        "Religion & Faith",
+        "Caste, Race & Ethnicity",
+        "Marital Status & Family Background",
+        "Political Affiliation",
+        "Non-job-relevant Personal Details"
+      ],
+      "piiScrubbed": true,
+      "notice": "AI-assisted assessment — final recruitment decision must be made by a human recruiter."
+    },
+    "createdAt": "2026-08-28T04:50:53.788Z",
+    "updatedAt": "2026-08-28T04:50:53.797Z"
+  }
+]
