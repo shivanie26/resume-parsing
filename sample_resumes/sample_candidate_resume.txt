@@ -1,0 +1,32 @@
+Alex Rivera
+alex.rivera@example.com
+(555) 234-5678
+Seattle, WA
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 4 years of experience architecting high-performance web applications using React, Node.js, and MongoDB. Proven track record of designing RESTful microservices, optimizing database queries, and leading agile engineering teams.
+
+EDUCATION
+Bachelor of Science in Computer Science, University of Washington, 2022
+Grade: 3.8 GPA
+
+TECHNICAL SKILLS
+Languages & Frameworks: JavaScript, TypeScript, React, Node.js, Express.js, HTML5, CSS3, SQL
+Databases & Cloud: MongoDB, MySQL, Docker, AWS (EC2, S3, Lambda), Git, GitHub
+Core Concepts: REST APIs, Data Structures and Algorithms
+
+WORK EXPERIENCE
+Full Stack Software Engineer
+Nimbus Tech, Seattle, WA
+2022 - Present
+- Engineered high-throughput REST APIs using Node.js, Express.js, and MongoDB handling 50k+ daily transactions.
+- Developed responsive, accessible single-page web applications utilizing React, TypeScript, and Tailwind CSS.
+- Containerized microservice workflows using Docker and configured continuous deployment pipelines with GitHub Actions and AWS.
+
+PROJECTS
+Cloud Analytics Dashboard: Developed observability and system telemetry monitoring platform using React, Node.js, and MongoDB.
+E-Commerce Microservices Engine: Designed order processing and authentication service using Express.js and REST APIs.
+
+CERTIFICATIONS
+- AWS Certified Developer Associate
+- MongoDB Certified Developer Associate
