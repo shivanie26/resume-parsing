@@ -1,4 +1,12 @@
 const mongoose = require('mongoose');
+const dns = require('dns');
+
+// Configure reliable DNS servers to resolve MongoDB Atlas SRV records smoothly on all networks
+try {
+  dns.setServers(['8.8.8.8', '1.1.1.1']);
+} catch (dnsErr) {
+  // Use system default DNS if setServers is restricted
+}
 
 const connectDB = async () => {
   const uri = process.env.MONGODB_URI;
