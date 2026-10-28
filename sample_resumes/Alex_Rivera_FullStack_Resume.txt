@@ -1,0 +1,31 @@
+Alex Rivera
+Email: alex.rivera@email.com | Phone: (555) 234-5678 | San Francisco, CA
+
+PROFESSIONAL SUMMARY:
+Senior Full Stack Engineer with 4.5 years of experience architecting cloud-native web applications with React, Node.js, Express, TypeScript, and AWS. Demonstrated expertise in REST API design, microservices, and database optimization.
+
+TECHNICAL COMPETENCIES:
+- Programming Languages: JavaScript, TypeScript, Python, SQL, HTML5, CSS3
+- Web Frameworks & Libraries: React, React Native, Node.js, Express.js, Redux, Tailwind CSS
+- Databases & Cloud Infrastructure: MongoDB, PostgreSQL, AWS (S3, EC2, Lambda), Docker, Git
+
+WORK EXPERIENCE:
+Senior Software Engineer | Apex Tech Solutions (2022 - Present)
+- Engineered scalable microservices backend using Node.js and Express handling 200k daily REST API requests.
+- Developed real-time dashboard analytics portal in React and TypeScript.
+- Integrated PostgreSQL and Redis caching layers.
+
+Full Stack Developer | Cloudify Systems (2020 - 2022)
+- Built interactive customer portals using React, HTML5, and CSS3.
+- Automated Docker container deployments on AWS EC2.
+
+KEY PROJECTS:
+1. Microservice E-Commerce Engine: Architected Node.js microservices with GraphQL and React frontend.
+2. Real-Time Telemetry Dashboard: Built React/TypeScript web app with WebSockets and Tailwind CSS.
+
+EDUCATION:
+B.S. in Computer Science | University of California, Berkeley (Graduated 2020)
+
+VERIFIED CERTIFICATIONS:
+- AWS Certified Solutions Architect - Associate
+- Meta Certified Senior Front-End Developer

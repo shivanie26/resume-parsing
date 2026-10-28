@@ -1,0 +1,449 @@
+[
+  {
+    "_id": "res_alex_301",
+    "candidateId": "cand_alex_101",
+    "fileName": "Alex_Rivera_FullStack_Resume.pdf",
+    "filePath": "sample_resumes/Alex_Rivera_FullStack_Resume.pdf",
+    "extractedText": "Alex Rivera\nEmail: alex.rivera@email.com | Phone: (555) 234-5678\nOBJECTIVE: Senior Full Stack Engineer with 4.5 years of experience building modern web platforms with React, Node.js, Express, TypeScript, and AWS.\n\nTECHNICAL SKILLS:\n- Languages: JavaScript, TypeScript, Python, SQL, HTML5, CSS3\n- Frameworks & Libraries: React, React Native, Node.js, Express.js, Redux, Tailwind CSS\n- Databases & Cloud: MongoDB, PostgreSQL, AWS (S3, EC2, Lambda), Docker, Git\n\nWORK EXPERIENCE:\nSenior Software Engineer | Apex Tech Solutions (2022 - Present)\n- Engineered scalable microservices backend using Node.js and Express handling 200k daily REST API requests.\n- Developed real-time dashboard analytics portal in React and TypeScript.\n- Integrated PostgreSQL and Redis caching layers.\n\nFull Stack Developer | Cloudify Systems (2020 - 2022)\n- Built interactive customer portals using React, HTML5, and CSS3.\n- Automated Docker container deployments on AWS EC2.\n\nPROJECTS:\n1. Microservice E-Commerce Engine: Architected Node.js microservices with GraphQL and React frontend.\n2. Real-Time Telemetry Dashboard: Built React/TypeScript web app with WebSockets and Tailwind CSS.\n\nEDUCATION:\nB.S. in Computer Science | University of California, Berkeley (2020)\n\nCERTIFICATIONS:\n- AWS Certified Solutions Architect - Associate\n- Meta Certified Senior Front-End Developer",
+    "parsedData": {
+      "name": "Alex Rivera",
+      "email": "alex.rivera@email.com",
+      "phone": "(555) 234-5678",
+      "education": [
+        {
+          "degree": "B.S. in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2020"
+        }
+      ],
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "REST API",
+        "Git",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Tailwind CSS",
+        "HTML",
+        "CSS",
+        "Python"
+      ],
+      "programming_languages": [
+        "JAVASCRIPT",
+        "TYPESCRIPT",
+        "PYTHON",
+        "SQL",
+        "HTML",
+        "CSS"
+      ],
+      "tools": [
+        "GIT",
+        "DOCKER",
+        "AWS",
+        "MONGODB"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect - Associate",
+        "Meta Certified Senior Front-End Developer"
+      ],
+      "projects": [
+        {
+          "title": "Microservice E-Commerce Engine",
+          "description": "Architected Node.js microservices with GraphQL and React frontend.",
+          "technologies": [
+            "Node.js",
+            "React",
+            "GraphQL"
+          ]
+        },
+        {
+          "title": "Real-Time Telemetry Dashboard",
+          "description": "Built React/TypeScript web app with WebSockets and Tailwind CSS.",
+          "technologies": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Apex Tech Solutions",
+          "role": "Senior Software Engineer",
+          "duration": "2.5 years",
+          "description": "Engineered scalable microservices backend using Node.js and Express",
+          "years": 2.5
+        },
+        {
+          "company": "Cloudify Systems",
+          "role": "Full Stack Developer",
+          "duration": "2 years",
+          "description": "Built interactive customer portals using React",
+          "years": 2
+        }
+      ],
+      "total_experience": 4.5
+    },
+    "createdAt": "2026-08-28T04:23:45.697Z"
+  },
+  {
+    "_id": "res_priya_302",
+    "candidateId": "cand_priya_102",
+    "fileName": "Priya_Sharma_AI_ML_Resume.docx",
+    "filePath": "sample_resumes/Priya_Sharma_AI_ML_Resume.docx",
+    "extractedText": "Priya Sharma\nEmail: priya.sharma@email.com | Phone: (555) 876-5432\nLead Machine Learning Scientist with 5 years of experience in Deep Learning, NLP, Computer Vision, and Predictive Analytics.\n\nSKILLS & COMPETENCIES:\nPython, PyTorch, TensorFlow, Machine Learning, Deep Learning, SQL, Data Science, Natural Language Processing, MLOps, AWS, Docker, Kubernetes, Pandas, NumPy, Scikit-learn\n\nEXPERIENCE:\nStaff AI Specialist | Neural AI Labs (2021 - Present)\n- Designed transformer-based NLP resume parsing and document intelligence models using PyTorch and HuggingFace.\n- Deployed ML inference API on AWS SageMaker and Kubernetes clusters.\n\nData Scientist | Analytics Corp (2019 - 2021)\n- Built computer vision defect detection models using TensorFlow and Python.\n\nPROJECTS:\n1. Transformer NLP Document Intelligence: Built state-of-the-art NLP entity extractor in PyTorch.\n2. MLOps Automated Pipeline: Continuous model monitoring framework using Docker and Kubernetes on AWS.\n\nEDUCATION:\nM.S. in Artificial Intelligence & Data Science | Carnegie Mellon University (2019)\nB.E. in Computer Engineering | IIT Bombay (2017)\n\nCERTIFICATIONS:\n- AWS Certified Machine Learning - Specialty\n- DeepLearning.AI Deep Learning Specialization",
+    "parsedData": {
+      "name": "Priya Sharma",
+      "email": "priya.sharma@email.com",
+      "phone": "(555) 876-5432",
+      "education": [
+        {
+          "degree": "M.S. in Artificial Intelligence & Data Science",
+          "institution": "Carnegie Mellon University",
+          "year": "2019"
+        },
+        {
+          "degree": "B.E. in Computer Engineering",
+          "institution": "IIT Bombay",
+          "year": "2017"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "TensorFlow",
+        "SQL",
+        "Data Science",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Natural Language Processing",
+        "MLOps",
+        "Git"
+      ],
+      "programming_languages": [
+        "PYTHON",
+        "SQL"
+      ],
+      "tools": [
+        "AWS",
+        "DOCKER",
+        "KUBERNETES",
+        "GIT"
+      ],
+      "certifications": [
+        "AWS Certified Machine Learning - Specialty",
+        "DeepLearning.AI Deep Learning Specialization"
+      ],
+      "projects": [
+        {
+          "title": "Transformer NLP Document Intelligence",
+          "description": "Built state-of-the-art NLP entity extractor in PyTorch.",
+          "technologies": [
+            "Python",
+            "PyTorch",
+            "NLP"
+          ]
+        },
+        {
+          "title": "MLOps Automated Pipeline",
+          "description": "Continuous model monitoring framework using Docker and Kubernetes on AWS.",
+          "technologies": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Neural AI Labs",
+          "role": "Staff AI Specialist",
+          "duration": "3 years",
+          "description": "Designed transformer-based NLP resume parsing models",
+          "years": 3
+        },
+        {
+          "company": "Analytics Corp",
+          "role": "Data Scientist",
+          "duration": "2 years",
+          "description": "Built computer vision models using TensorFlow",
+          "years": 2
+        }
+      ],
+      "total_experience": 5
+    },
+    "createdAt": "2026-08-28T04:23:45.701Z"
+  },
+  {
+    "_id": "res_marcus_303",
+    "candidateId": "cand_marcus_103",
+    "fileName": "Marcus_Vance_Software_Dev_Resume.pdf",
+    "filePath": "sample_resumes/Marcus_Vance_Software_Dev_Resume.pdf",
+    "extractedText": "Marcus Vance\nEmail: marcus.vance@email.com | Phone: (555) 432-1098\nFull Stack Developer with 2.5 years of experience in JavaScript, React, HTML, CSS, REST APIs, and Node.js.\n\nSKILLS:\nJavaScript, React, Node.js, Express, HTML, CSS, Git, REST API, MongoDB\n\nEXPERIENCE:\nJunior Web Developer | Digital Innovations (2022 - Present)\n- Developed responsive web interfaces using React and CSS.\n- Created RESTful microservice routes with Node.js.\n\nPROJECTS:\n1. Inventory Management App: Node.js and MongoDB Web Application.\n\nEDUCATION:\nB.S. in Information Technology | University of Illinois (2022)\n\nCERTIFICATIONS:\n- FreeCodeCamp Full Stack Developer Certification",
+    "parsedData": {
+      "name": "Marcus Vance",
+      "email": "marcus.vance@email.com",
+      "phone": "(555) 432-1098",
+      "education": [
+        {
+          "degree": "B.S. in Information Technology",
+          "institution": "University of Illinois",
+          "year": "2022"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Git",
+        "REST API",
+        "MongoDB"
+      ],
+      "programming_languages": [
+        "JAVASCRIPT",
+        "HTML",
+        "CSS"
+      ],
+      "tools": [
+        "GIT",
+        "MONGODB"
+      ],
+      "certifications": [
+        "FreeCodeCamp Full Stack Developer Certification"
+      ],
+      "projects": [
+        {
+          "title": "Inventory Management App",
+          "description": "Node.js and MongoDB Web Application.",
+          "technologies": [
+            "Node.js",
+            "MongoDB",
+            "React"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Digital Innovations",
+          "role": "Junior Web Developer",
+          "duration": "2.5 years",
+          "description": "Developed responsive web interfaces using React",
+          "years": 2.5
+        }
+      ],
+      "total_experience": 2.5
+    },
+    "createdAt": "2026-08-28T04:23:45.706Z"
+  },
+  {
+    "_id": "res_elena_304",
+    "candidateId": "cand_elena_104",
+    "fileName": "Elena_Rostova_FullStack_ML_Resume.pdf",
+    "filePath": "sample_resumes/Elena_Rostova_FullStack_ML_Resume.pdf",
+    "extractedText": "Elena Rostova\nEmail: elena.rostova@email.com | Phone: (555) 901-2345\nVersatile Software Engineer & ML Practitioner with 4 years of experience combining React, Node.js, Python, TensorFlow, and AWS.\n\nSKILLS:\nReact, Node.js, Python, TypeScript, Machine Learning, TensorFlow, SQL, AWS, Docker, REST API, Git, GraphQL\n\nEXPERIENCE:\nSoftware & AI Engineer | Synapse Innovations (2020 - Present)\n- Developed AI-powered web applications using React, Python, Node.js, and AWS.\n\nEDUCATION:\nB.Tech in Computer Science & Engineering | MIT (2020)\n\nPROJECTS:\n1. Intelligent Smart Search Engine: Built semantic search tool using Python and React.\n\nCERTIFICATIONS:\n- Certified AWS Developer",
+    "parsedData": {
+      "name": "Elena Rostova",
+      "email": "elena.rostova@email.com",
+      "phone": "(555) 901-2345",
+      "education": [
+        {
+          "degree": "B.Tech in Computer Science & Engineering",
+          "institution": "MIT",
+          "year": "2020"
+        }
+      ],
+      "skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "TypeScript",
+        "Machine Learning",
+        "TensorFlow",
+        "SQL",
+        "AWS",
+        "Docker",
+        "REST API",
+        "Git",
+        "GraphQL"
+      ],
+      "programming_languages": [
+        "PYTHON",
+        "TYPESCRIPT",
+        "SQL"
+      ],
+      "tools": [
+        "AWS",
+        "DOCKER",
+        "GIT"
+      ],
+      "certifications": [
+        "Certified AWS Developer"
+      ],
+      "projects": [
+        {
+          "title": "Intelligent Smart Search Engine",
+          "description": "Built semantic search tool using Python and React.",
+          "technologies": [
+            "Python",
+            "React",
+            "NLP"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Synapse Innovations",
+          "role": "Software & AI Engineer",
+          "duration": "4 years",
+          "description": "Developed AI-powered web applications",
+          "years": 4
+        }
+      ],
+      "total_experience": 4
+    },
+    "createdAt": "2026-08-28T04:23:45.712Z"
+  },
+  {
+    "_id": "mtch3pvu013pp",
+    "candidateId": "cand_1787892618923_42fe",
+    "fileName": "my_resume.pdf",
+    "filePath": "C:\\Users\\shiva\\.gemini\\antigravity\\scratch\\smart-resume-platform\\backend\\uploads\\1787892611565-593943764-my_resume.pdf",
+    "extractedText": "\n\nSHIVANI E\n +91 70105 17001# eshivani26@gmail.com\nï linkedin.com/in/shivani-e-363570294§ github.com/shivanie26\nLeetCode: https://leetcode.com/u/SHIVANIE26/\nCAREER SUMMARY\nSoftware developer with a foundation in Java, C, SQL, Networks and problem-solving.  Built practical projects\nincluding a Skill Endorsement System, reminder application, and freelancing platform. Looking to contribute to\nmeaningful software projects while continuing to grow through real-world experience.\nTECHNICAL SKILLS\nLanguagesC, Java\nData Structures & Algorithms  Arrays, Strings, Searching, Sorting\nDatabaseMySQL\nCore ConceptsOOP, DBMS, Computer Networks\nDesignUI/UX\nToolsGitHub, Visual Studio Code, Figma\nPROJECTS\nSkill Endorsement System\n• Developed a web application that allows users to add, showcase, and validate technical skills through peer en-\ndorsements.\n• Implemented secure user authentication using JWT and managed skill and endorsement data with MongoDB.\n• Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB, JWT.\nRemindX\n• Developed a full-stack task reminder application that displays the exact task details when an alarm rings, reducing\nuser confusion.\n• Implemented CRUD operations for task management and stored reminder data securely using MongoDB.\n• Tech Stack: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB.\nFreelancing Hiring Platform\n• Developed a freelance marketplace where clients can post projects and freelancers can bid, communicate, and\nsubmit completed work securely.\n• Implemented user authentication, project management, and real-time communication features for seamless col-\nlaboration.\n• Tech Stack: HTML, CSS, JavaScript, JWT.\nEDUCATION\nBannari Amman Institute of Technology, Sathyamangalam2023–Present\n• CGPA: 8.26 (up to 6th Semester)\nBharani Park Matric Higher Secondary School, Vennamalai2022–2023\n• HSC: 89.83%\nCERTIFICATIONS & ACHIEVEMENTS\n• Deloitte – Data Analyst Job Simulation\n• NPTEL – Introduction to Industry 4.0 and Industrial IoT (85%)\n• The Linux Foundation – Introduction to Node.js\n• NPTEL – Introduction to Internet of Things (73%)\nLANGUAGES\nEnglish (Intermediate)   —   Telugu (Fluent)   —   Tamil (Fluent)",
+    "parsedData": {
+      "name": "SHIVANI E",
+      "email": "eshivani26@gmail.com",
+      "phone": "N/A",
+      "education": [
+        {
+          "degree": "B.Tech Computer Science",
+          "institution": "State University",
+          "year": "2023"
+        }
+      ],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Sql",
+        "Mongodb",
+        "Git",
+        "Html",
+        "Css",
+        "Java"
+      ],
+      "programming_languages": [
+        "JAVASCRIPT",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JAVA"
+      ],
+      "tools": [
+        "MONGODB",
+        "GIT"
+      ],
+      "certifications": [
+        "AWS Certified Developer",
+        "Full Stack Developer Certificate"
+      ],
+      "projects": [
+        {
+          "title": "AI Resume Parsing System",
+          "description": "Built NLP service with React frontend",
+          "technologies": [
+            "Python",
+            "React",
+            "Node.js"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Engineering Enterprise 1",
+          "role": "experience.",
+          "duration": "2 Years",
+          "description": "experience.",
+          "years": 2
+        }
+      ],
+      "total_experience": 2
+    },
+    "uploadedAt": "2026-08-28T04:50:18.923Z",
+    "createdAt": "2026-08-28T04:50:18.954Z"
+  },
+  {
+    "_id": "mtchti48118yp",
+    "candidateId": "cand_1787893821938_o4jy",
+    "fileName": "my_resume.pdf",
+    "filePath": "C:\\Users\\shiva\\.gemini\\antigravity\\scratch\\smart-resume-platform\\backend\\uploads\\1787893821779-991327806-my_resume.pdf",
+    "extractedText": "\n\nSHIVANI E\n +91 70105 17001# eshivani26@gmail.com\nï linkedin.com/in/shivani-e-363570294§ github.com/shivanie26\nLeetCode: https://leetcode.com/u/SHIVANIE26/\nCAREER SUMMARY\nSoftware developer with a foundation in Java, C, SQL, Networks and problem-solving.  Built practical projects\nincluding a Skill Endorsement System, reminder application, and freelancing platform. Looking to contribute to\nmeaningful software projects while continuing to grow through real-world experience.\nTECHNICAL SKILLS\nLanguagesC, Java\nData Structures & Algorithms  Arrays, Strings, Searching, Sorting\nDatabaseMySQL\nCore ConceptsOOP, DBMS, Computer Networks\nDesignUI/UX\nToolsGitHub, Visual Studio Code, Figma\nPROJECTS\nSkill Endorsement System\n• Developed a web application that allows users to add, showcase, and validate technical skills through peer en-\ndorsements.\n• Implemented secure user authentication using JWT and managed skill and endorsement data with MongoDB.\n• Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB, JWT.\nRemindX\n• Developed a full-stack task reminder application that displays the exact task details when an alarm rings, reducing\nuser confusion.\n• Implemented CRUD operations for task management and stored reminder data securely using MongoDB.\n• Tech Stack: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB.\nFreelancing Hiring Platform\n• Developed a freelance marketplace where clients can post projects and freelancers can bid, communicate, and\nsubmit completed work securely.\n• Implemented user authentication, project management, and real-time communication features for seamless col-\nlaboration.\n• Tech Stack: HTML, CSS, JavaScript, JWT.\nEDUCATION\nBannari Amman Institute of Technology, Sathyamangalam2023–Present\n• CGPA: 8.26 (up to 6th Semester)\nBharani Park Matric Higher Secondary School, Vennamalai2022–2023\n• HSC: 89.83%\nCERTIFICATIONS & ACHIEVEMENTS\n• Deloitte – Data Analyst Job Simulation\n• NPTEL – Introduction to Industry 4.0 and Industrial IoT (85%)\n• The Linux Foundation – Introduction to Node.js\n• NPTEL – Introduction to Internet of Things (73%)\nLANGUAGES\nEnglish (Intermediate)   —   Telugu (Fluent)   —   Tamil (Fluent)",
+    "parsedData": {
+      "name": "SHIVANI E",
+      "email": "eshivani26@gmail.com",
+      "phone": "N/A",
+      "education": [
+        {
+          "degree": "B.Tech Computer Science",
+          "institution": "State University",
+          "year": "2023"
+        }
+      ],
+      "skills": [
+        "Javascript",
+        "Node.js",
+        "Sql",
+        "Mongodb",
+        "Git",
+        "Html",
+        "Css",
+        "Java"
+      ],
+      "programming_languages": [
+        "JAVASCRIPT",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JAVA"
+      ],
+      "tools": [
+        "MONGODB",
+        "GIT"
+      ],
+      "certifications": [
+        "AWS Certified Developer",
+        "Full Stack Developer Certificate"
+      ],
+      "projects": [
+        {
+          "title": "AI Resume Parsing System",
+          "description": "Built NLP service with React frontend",
+          "technologies": [
+            "Python",
+            "React",
+            "Node.js"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Engineering Enterprise 1",
+          "role": "experience.",
+          "duration": "2 Years",
+          "description": "experience.",
+          "years": 2
+        }
+      ],
+      "total_experience": 2
+    },
+    "uploadedAt": "2026-08-28T05:10:21.938Z",
+    "createdAt": "2026-08-28T05:10:21.944Z"
+  }
+]
