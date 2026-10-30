@@ -24,4 +24,7 @@ router.get('/:id/applications', protect, authorize('recruiter'), require('../con
 // Candidate matching action
 router.post('/:id/match', protect, authorize('candidate'), matchCandidateSkills);
 
+// Candidate apply action (alias for /api/applications/jobs/:id/apply)
+router.post('/:id/apply', protect, authorize('candidate'), require('../controllers/applicationController').applyForJob);
+
 module.exports = router;
